@@ -59,7 +59,7 @@ exports.createPages = ({ actions, graphql }) =>
         }
       }
     }
-  `).then(({ data, errors }) => {
+  `).then(({ data, errors }) => { 
     if (errors) {
       return Promise.reject(errors)
     }
