@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-egghead-blog",
-  "description": "This is a starter for egghead content creator blogs",
-  "version": "1.0.0",
-  "author": "egghead.io <support@egghead.io> (https://egghead.io)",
+  "name": "bamf-blog",
+  "description": "Starter Blog for the Bay Area millenial family",
+  "version": "0.0.1",
+  "author": "Jay Lowe",
   "repository": "https://github.com/eggheadio/gatsby-starter-egghead-blog",
   "dependencies": {
     "@callstack/react-theme-provider": "^3.0.5",
